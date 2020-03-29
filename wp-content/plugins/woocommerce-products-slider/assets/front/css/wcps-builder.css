@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wcps-builder-tools{
+    width: 300px;
+    padding: 10px;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 32px;
+    background: #fff;
+}
+
+
+
+
+#wcps-builder{}
+
+

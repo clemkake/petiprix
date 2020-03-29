@@ -1,0 +1,16 @@
+[06-Jul-2019 14:05:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/kalouwah/petiprix.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kalouwah/petiprix.com/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 14:06:13 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/kalouwah/petiprix.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kalouwah/petiprix.com/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 14:06:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/kalouwah/petiprix.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kalouwah/petiprix.com/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 05:46:06 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/kalouwah/petiprix.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/kalouwah/petiprix.com/wp-content/themes/twentysixteen/404.php on line 10

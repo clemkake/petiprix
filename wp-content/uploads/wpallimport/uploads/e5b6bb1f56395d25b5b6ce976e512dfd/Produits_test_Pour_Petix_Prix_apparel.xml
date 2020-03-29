@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[001]]></id>
+		<title><![CDATA[Tomate]]></title>
+		<description><![CDATA[tomates bio tres fraiche]]></description>
+		<vendor><![CDATA[Ivoire Cash]]></vendor>
+		<type><![CDATA[au kilo]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.saveol.com/sites/default/files/2018-02/tomate-charnue.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[002]]></id>
+		<title><![CDATA[Maïs]]></title>
+		<description><![CDATA[epis de maïs frais]]></description>
+		<vendor><![CDATA[Farinor]]></vendor>
+		<type><![CDATA[au kilo]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://cdn.pixabay.com/photo/2017/07/10/08/27/vegetable-2489368_960_720.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[003]]></id>
+		<title><![CDATA[Orange]]></title>
+		<description><![CDATA[de bonnes oranges marocaines]]></description>
+		<vendor><![CDATA[le marraicher ci]]></vendor>
+		<type><![CDATA[au kilo]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://img.lovepik.com/element/40046/6194.png_1200.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[004]]></id>
+		<title><![CDATA[Poivron]]></title>
+		<description><![CDATA[poivrons fraichement recoltes]]></description>
+		<vendor><![CDATA[agrici]]></vendor>
+		<type><![CDATA[au kilo]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://img2.freepng.fr/20180323/ecw/kisspng-bell-pepper-cayenne-pepper-chili-pepper-black-pepp-black-pepper-5ab4b7610d4d22.8547579915217928650545.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[005]]></id>
+		<title><![CDATA[Bananes]]></title>
+		<description><![CDATA[bananes bio]]></description>
+		<vendor><![CDATA[bananacop]]></vendor>
+		<type><![CDATA[au kilo]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://img2.freepng.fr/20180502/dze/kisspng-juice-cavendish-banana-lady-finger-banana-cooking-5ae9f298299b82.4863909415252814321704.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[006]]></id>
+		<title><![CDATA[Lu petit ecolier + pocket]]></title>
+		<description><![CDATA[biscuit au chocolat 100g]]></description>
+		<vendor><![CDATA[LU]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.lu.fr/~/media/LU/fr2014/Images/peco-defi/paquet_desktop.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[007]]></id>
+		<title><![CDATA[Palmier caramel au beurre]]></title>
+		<description><![CDATA[biscuit caramel au beurre 100g]]></description>
+		<vendor><![CDATA[Atelier Saint michel]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.atelierstmichel.fr/169-large_stmichel/palmier-caramel-st-michel-100g.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[008]]></id>
+		<title><![CDATA[Bjorg fourre]]></title>
+		<description><![CDATA[fourre au chocolat noir 60g]]></description>
+		<vendor><![CDATA[Bjorg]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.bjorg.fr/cache/media/fourre-s-chocolat-noir-bio/r,750,750,1-c52d85.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[009]]></id>
+		<title><![CDATA[U tout petits]]></title>
+		<description><![CDATA[biscuit pour bebe 75g]]></description>
+		<vendor><![CDATA[Course U]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.coursesu.com/dw/image/v2/BBQX_PRD/on/demandware.static/-/Sites-digitalu-master-catalog/default/dwab42a731/3256221361957_A_3683516_S01.png?sw=400&sh=400&sm=fit]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[010]]></id>
+		<title><![CDATA[Oreo original]]></title>
+		<description><![CDATA[Oreo Pocket 200g]]></description>
+		<vendor><![CDATA[Mondelez]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://images.sweetauthoring.com/product/46956.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[011]]></id>
+		<title><![CDATA[Assiette Garnie]]></title>
+		<description><![CDATA[melange charcuterie]]></description>
+		<vendor><![CDATA[boucherie sococe]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://pngimage.net/wp-content/uploads/2018/05/charcuterie-png-3.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[012]]></id>
+		<title><![CDATA[Queu de porc]]></title>
+		<description><![CDATA[viande de porc fume]]></description>
+		<vendor><![CDATA[nouvelle porcherie]]></vendor>
+		<type><![CDATA[au gramme]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://thumbs.dreamstime.com/b/viande-de-porc-fum%C3%A9e-26534610.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[013]]></id>
+		<title><![CDATA[Saucisson]]></title>
+		<description><![CDATA[saucisson fume 125g]]></description>
+		<vendor><![CDATA[boucherie sococe]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://chevrefeuille.net/images/detailed/30/saucisse_fumee_porc_fermier.png?t=1493903965]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[014]]></id>
+		<title><![CDATA[Jambon]]></title>
+		<description><![CDATA[rouleau de jambon 200g]]></description>
+		<vendor><![CDATA[nouvelle porcherie]]></vendor>
+		<type><![CDATA[au gramme]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.dangersalimentaires.com/wp-content/uploads/2018/02/tranches-de-jambon-listeria.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[015]]></id>
+		<title><![CDATA[Fromage rocamadour]]></title>
+		<description><![CDATA[fromage de chevre 180g]]></description>
+		<vendor><![CDATA[Fromagerie de letoile 125g]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.lacremerieroyale.fr/pub/produits/rocamadour-grand-cru-aoc.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[016]]></id>
+		<title><![CDATA[Fromage talissi]]></title>
+		<description><![CDATA[camembre bri175g]]></description>
+		<vendor><![CDATA[laiterie draa]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.laiteriedbk.dz/sites/default/files/images/products/camembert-tassili.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[017]]></id>
+		<title><![CDATA[Tropical oasis]]></title>
+		<description><![CDATA[boisson sucre 2l]]></description>
+		<vendor><![CDATA[carrefour traiteur]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[http://logistique-drive.fr/superdrive16014/186-thickbox_default/boisson-tropical-oasis.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[018]]></id>
+		<title><![CDATA[Canette coca cola]]></title>
+		<description><![CDATA[boisson gazeuse sucree 33 cl]]></description>
+		<vendor><![CDATA[solibra]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.sushiba.com/userfiles/catalog/product/thumbs/coca%20zero%2033cl-600x600-white.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[019]]></id>
+		<title><![CDATA[Pain au chocolat]]></title>
+		<description><![CDATA[viennoiserie]]></description>
+		<vendor><![CDATA[boulangerie carrefour]]></vendor>
+		<type><![CDATA[la paire]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[http://blog.adrienvh.fr/wp-content/uploads/2012/10/chocolatine-pain-au-chocolat.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[020]]></id>
+		<title><![CDATA[Croissant]]></title>
+		<description><![CDATA[viennoiserie]]></description>
+		<vendor><![CDATA[boulangerie carrefour]]></vendor>
+		<type><![CDATA[le lot de 3]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[http://patisserieau38.fr/wp-content/uploads/2017/09/croissant.png]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[021]]></id>
+		<title><![CDATA[Chocolat en poudre nestle]]></title>
+		<description><![CDATA[boisson instantane 750g]]></description>
+		<vendor><![CDATA[Top budget]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://i2.cdscdn.com/pdt2/1/7/9/1/700x700/nes2009897345179/rw/nestle-le-chocolat-chocolat-en-poudre-6-x-500-g.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[022]]></id>
+		<title><![CDATA[Lait en poudre Nido Nestlé]]></title>
+		<description><![CDATA[boisson instantane 400g]]></description>
+		<vendor><![CDATA[king cash]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[http://www.michelcome.fr/boutique/images_produits/zepi025_1.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[023]]></id>
+		<title><![CDATA[Detox citron]]></title>
+		<description><![CDATA[boisson detox bio 50cl]]></description>
+		<vendor><![CDATA[sococe]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.leanatureboutique.com/5049-large_default/boisson-detox-citron.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[024]]></id>
+		<title><![CDATA[Happy detox]]></title>
+		<description><![CDATA[smothie mange 25cl]]></description>
+		<vendor><![CDATA[cash ivoire]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.leanatureboutique.com/5132-large_default/smoothie-ma-vitalite-mangue-curcuma-hibiscus.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[025]]></id>
+		<title><![CDATA[Infusion happy detox]]></title>
+		<description><![CDATA[20 sachets d'infusion 30g]]></description>
+		<vendor><![CDATA[the ivoire]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.leanatureboutique.com/5976-large_default/infusion-fruitee-ma-silhouette-eglantier-sureau.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[026]]></id>
+		<title><![CDATA[Pure de tomate bio]]></title>
+		<description><![CDATA[purée de tomates réduite à 7% bio 300g]]></description>
+		<vendor><![CDATA[lea nature bio]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.leanatureboutique.com/9943-large_default/puree-de-tomate-bio.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[027]]></id>
+		<title><![CDATA[Ail des ours bio]]></title>
+		<description><![CDATA[plante sauvage des sous-bois 6g]]></description>
+		<vendor><![CDATA[lea nature bio]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.leanatureboutique.com/9915-large_default/ail-des-ours-bio.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[028]]></id>
+		<title><![CDATA[Eau minerale thonon]]></title>
+		<description><![CDATA[pack de 6 bouteilles de 2l]]></description>
+		<vendor><![CDATA[Auchan]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_4587.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[029]]></id>
+		<title><![CDATA[Eau de source des pyrene]]></title>
+		<description><![CDATA[eau de la montagne 5l]]></description>
+		<vendor><![CDATA[Auchan]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_116937.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[030]]></id>
+		<title><![CDATA[Eau minerale cristaline]]></title>
+		<description><![CDATA[pack de 6 bouteilles de 2l]]></description>
+		<vendor><![CDATA[king cash]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_4607.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[031]]></id>
+		<title><![CDATA[Jus de fruit joker]]></title>
+		<description><![CDATA[pack de 3 bouteilles de 1l]]></description>
+		<vendor><![CDATA[belle epine]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_219442.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[032]]></id>
+		<title><![CDATA[Pressage pocket]]></title>
+		<description><![CDATA[brique de jus de fruit presse 2l]]></description>
+		<vendor><![CDATA[belle epine]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_251283.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[033]]></id>
+		<title><![CDATA[Auchan Mmm]]></title>
+		<description><![CDATA[Pur jus de tomate de marmande 1l]]></description>
+		<vendor><![CDATA[carrefour traiteur]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_210128.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[034]]></id>
+		<title><![CDATA[Auchan nectar multivitamine]]></title>
+		<description><![CDATA[Jus de fruits à base de jus de fruits concentrés (pomme, orange, citron, ananas, raisin, fruit de la passion) 2l]]></description>
+		<vendor><![CDATA[Top budget]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_1338.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[035]]></id>
+		<title><![CDATA[Badoi eau mineral gazeuse]]></title>
+		<description><![CDATA[pack de 6 bouteilles de 1l]]></description>
+		<vendor><![CDATA[Mondelez]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_120513.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[036]]></id>
+		<title><![CDATA[Perrier eau minerale gazeuse]]></title>
+		<description><![CDATA[pack de 6 bouteilles de 1l]]></description>
+		<vendor><![CDATA[Mondelez]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_225151.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[037]]></id>
+		<title><![CDATA[Auchan bio- au fruit rougeset]]></title>
+		<description><![CDATA[boisson gazeuse aux fruits rougeset à l'eau de source bio]]></description>
+		<vendor><![CDATA[lea nature bio]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_219808.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[038]]></id>
+		<title><![CDATA[Vittel-eau infuse à la fraise]]></title>
+		<description><![CDATA[pack de 4 bouteilles de 50 cl]]></description>
+		<vendor><![CDATA[king cash]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_257326.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[039]]></id>
+		<title><![CDATA[Auchan bio tropical]]></title>
+		<description><![CDATA[boisson au fruits bio tropicale 1l]]></description>
+		<vendor><![CDATA[sococe]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_220106.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[040]]></id>
+		<title><![CDATA[Volvic zest citron]]></title>
+		<description><![CDATA[pack de 6 bouteilles de 50 cl]]></description>
+		<vendor><![CDATA[sococe]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_46305.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[041]]></id>
+		<title><![CDATA[LOMZA sans alcool]]></title>
+		<description><![CDATA[bière Lomza Sans Alcool est brassée par Browar Lomza en Pologne 50cl]]></description>
+		<vendor><![CDATA[belle epine]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h04/h4c/14193834557470.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[042]]></id>
+		<title><![CDATA[Bierre sans culotte blonde]]></title>
+		<description><![CDATA[bierre sans culotte blonde 7% 50cl]]></description>
+		<vendor><![CDATA[cash ivoire]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h45/hab/13028328505374.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[043]]></id>
+		<title><![CDATA[bierre smithswicks]]></title>
+		<description><![CDATA[bierre smithswicks superior 3,8`% 33cl]]></description>
+		<vendor><![CDATA[carrefour traiteur]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/hf7/h24/13028645961758.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[044]]></id>
+		<title><![CDATA[Skyy framboise]]></title>
+		<description><![CDATA[skyy framboise 70cl]]></description>
+		<vendor><![CDATA[carrefour traiteur]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/hcf/h19/13603184607262.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[045]]></id>
+		<title><![CDATA[Auchan cassoulet]]></title>
+		<description><![CDATA[haricots lingots (France) 36.7% 800g]]></description>
+		<vendor><![CDATA[Auchan]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_139241.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[046]]></id>
+		<title><![CDATA[Céréales crousty 5 fruits]]></title>
+		<description><![CDATA[flocons d'avoine (contient gluten ) 35%, sucre, raisins secs 14% 450g]]></description>
+		<vendor><![CDATA[Auchan]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_246420.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[047]]></id>
+		<title><![CDATA[Kelloggs frosty]]></title>
+		<description><![CDATA[Barre de pétales de maïs35g]]></description>
+		<vendor><![CDATA[Mondelez]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_39755.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[048]]></id>
+		<title><![CDATA[Lu grany]]></title>
+		<description><![CDATA[barres céréalières muesli et fruits des bois 40g]]></description>
+		<vendor><![CDATA[lea nature bio]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_6700.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[049]]></id>
+		<title><![CDATA[Golden grahams]]></title>
+		<description><![CDATA[barres céréalières muesli et fruits des bois 30g]]></description>
+		<vendor><![CDATA[lea nature bio]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_152814.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[050]]></id>
+		<title><![CDATA[Muesly bio]]></title>
+		<description><![CDATA[céréales muesli 7 fruits croquants 500g]]></description>
+		<vendor><![CDATA[lea nature bio]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_77988.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[051]]></id>
+		<title><![CDATA[Jumbles chocolat]]></title>
+		<description><![CDATA[céréales tout choco 400g]]></description>
+		<vendor><![CDATA[king cash]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_140022.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[052]]></id>
+		<title><![CDATA[Caramchoc]]></title>
+		<description><![CDATA[cérèale caramchoc 400g]]></description>
+		<vendor><![CDATA[Top budget]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_76891.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[053]]></id>
+		<title><![CDATA[Quaker oats]]></title>
+		<description><![CDATA[flocons d'avoine 100% naturel Format Familial 800g]]></description>
+		<vendor><![CDATA[cash ivoire]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_57432.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[054]]></id>
+		<title><![CDATA[Jordans country crisp]]></title>
+		<description><![CDATA[céréales à la noix 850g]]></description>
+		<vendor><![CDATA[cash ivoire]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_148461.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[055]]></id>
+		<title><![CDATA[Nestle fitness]]></title>
+		<description><![CDATA[céréales au blé complet nature 200g]]></description>
+		<vendor><![CDATA[cash ivoire]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_112699.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[056]]></id>
+		<title><![CDATA[Weetabix original]]></title>
+		<description><![CDATA[ble complet 850g]]></description>
+		<vendor><![CDATA[Mondelez]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_158219.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[057]]></id>
+		<title><![CDATA[Vico poulet grille]]></title>
+		<description><![CDATA[chips saveur poulet grillé 500g]]></description>
+		<vendor><![CDATA[king cash]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_148003.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[058]]></id>
+		<title><![CDATA[Tyrrells chedar]]></title>
+		<description><![CDATA[chips emmental et ciboulette 150g]]></description>
+		<vendor><![CDATA[Mondelez]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_140676.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[059]]></id>
+		<title><![CDATA[Pringles cream]]></title>
+		<description><![CDATA[tuiles goût crème et oignon 175g]]></description>
+		<vendor><![CDATA[Mondelez]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_239965.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[060]]></id>
+		<title><![CDATA[Berlin minizza]]></title>
+		<description><![CDATA[biscuits salés pizza 85g]]></description>
+		<vendor><![CDATA[sococe]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_100182.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[061]]></id>
+		<title><![CDATA[Auchan confiture rhubarbe]]></title>
+		<description><![CDATA[confiture extra de rhubarbe 375g]]></description>
+		<vendor><![CDATA[sococe]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_70838.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[062]]></id>
+		<title><![CDATA[Achan fraises des bois]]></title>
+		<description><![CDATA[confiture de fraises et fraises des bois 370g]]></description>
+		<vendor><![CDATA[sococe]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_101015.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[063]]></id>
+		<title><![CDATA[Vitabio Purée de fruits bio myrtilles]]></title>
+		<description><![CDATA[purée de fruits bio myrtilles]]></description>
+		<vendor><![CDATA[king cash]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_137718.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[064]]></id>
+		<title><![CDATA[Clement faugier Crème]]></title>
+		<description><![CDATA[crème de marrons vanillée 500g]]></description>
+		<vendor><![CDATA[carrefour traiteur]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_100544.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[065]]></id>
+		<title><![CDATA[Materne - Confipote mirabelle]]></title>
+		<description><![CDATA[confipote mirabelle 300g]]></description>
+		<vendor><![CDATA[carrefour traiteur]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_149322.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[066]]></id>
+		<title><![CDATA[Gale's crème citron]]></title>
+		<description><![CDATA[crème de citron]]></description>
+		<vendor><![CDATA[king cash]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_153548.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[067]]></id>
+		<title><![CDATA[Auchan - egréné de boeuf 15% MG]]></title>
+		<description><![CDATA[egréné de boeuf 15% MG 700g]]></description>
+		<vendor><![CDATA[Top budget]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_123061.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[068]]></id>
+		<title><![CDATA[Charal Steaks hachés Pur boeuf]]></title>
+		<description><![CDATA[steaks hachés Pur boeuf 500g]]></description>
+		<vendor><![CDATA[Top budget]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_3578.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[069]]></id>
+		<title><![CDATA[Valley food escalopes de poulet crues marinées]]></title>
+		<description><![CDATA[escalopes de poulet crues marinées 800g]]></description>
+		<vendor><![CDATA[cash ivoire]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_59179.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[070]]></id>
+		<title><![CDATA[Auchan croutons au fromage]]></title>
+		<description><![CDATA[croutons au fromage 80g]]></description>
+		<vendor><![CDATA[cash ivoire]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://www.auchandirect.fr/backend/media/products_images/0N_149572.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[071]]></id>
+		<title><![CDATA[Château Coutet Barsac]]></title>
+		<description><![CDATA[Grand Cru Classé Blanc 2007]]></description>
+		<vendor><![CDATA[La cave Bambou]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h9b/h1e/14138647773214.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[072]]></id>
+		<title><![CDATA[Mouton Cadet Bordeaux Rouge 2016]]></title>
+		<description><![CDATA[Bordeaux Rouge 2016]]></description>
+		<vendor><![CDATA[La cave Bambou]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h12/hdd/14066867863582.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[073]]></id>
+		<title><![CDATA[Château Tour de Miot]]></title>
+		<description><![CDATA[Bordeaux Rouge 2011]]></description>
+		<vendor><![CDATA[La cave Bambou]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h1b/hf9/13222923599902.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[074]]></id>
+		<title><![CDATA[Alexis Lichine And Co]]></title>
+		<description><![CDATA[Bordeaux Rouge 12° 75cl]]></description>
+		<vendor><![CDATA[La cave Bambou]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h7b/h48/14326819127326.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[075]]></id>
+		<title><![CDATA[Château le Giron]]></title>
+		<description><![CDATA[Bordeaux Blanc 2016]]></description>
+		<vendor><![CDATA[La cave Bambou]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h1e/h33/12879846735902.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[076]]></id>
+		<title><![CDATA[Mouton Cadet]]></title>
+		<description><![CDATA[Bordeaux Rosé 2017]]></description>
+		<vendor><![CDATA[La cave Bambou]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h99/h55/14243787341854.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[077]]></id>
+		<title><![CDATA[Chevaux des Girondins]]></title>
+		<description><![CDATA[Bordeaux Blanc 2016]]></description>
+		<vendor><![CDATA[La cave Bambou]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h8d/hc9/13751410458654.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[078]]></id>
+		<title><![CDATA[WELEDA Crème]]></title>
+		<description><![CDATA[hydratante Homme 30 ml]]></description>
+		<vendor><![CDATA[Volupté Group]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/hab/hcb/14308182655006.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[079]]></id>
+		<title><![CDATA[NATESSANCE Huile de coco]]></title>
+		<description><![CDATA[100% pure 400 ml - Certifié BIO]]></description>
+		<vendor><![CDATA[Volupté Group]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/hdb/h72/14347736940574.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[080]]></id>
+		<title><![CDATA[JONZAC REHYDRATE]]></title>
+		<description><![CDATA[Gel thermal aloe vera hypoallergénique 150 ml - Certifié BIO]]></description>
+		<vendor><![CDATA[Volupté Group]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/he7/h66/14305479000094.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[081]]></id>
+		<title><![CDATA[NATESSANCE Huile]]></title>
+		<description><![CDATA[Huile de Rose Musquée anti âge 100 ml]]></description>
+		<vendor><![CDATA[Volupté Group]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h91/hc1/14308389060638.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[082]]></id>
+		<title><![CDATA[LIFT ARGAN Huile]]></title>
+		<description><![CDATA[Huile Argan 100% pure - Certifié BIO]]></description>
+		<vendor><![CDATA[Volupté Group]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h63/h09/13243388264478.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[083]]></id>
+		<title><![CDATA[SANOFLORE Coffret]]></title>
+		<description><![CDATA[Cadeau Beauté REINES - CERTIFIE BIO]]></description>
+		<vendor><![CDATA[Volupté Group]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/ha2/h95/13441288077342.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[084]]></id>
+		<title><![CDATA[WELEDA Cold]]></title>
+		<description><![CDATA[Cream visage 30 ml]]></description>
+		<vendor><![CDATA[Volupté Group]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/hd6/h60/14305260601374.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[085]]></id>
+		<title><![CDATA[IN EXTENSO]]></title>
+		<description><![CDATA[Ensemble pyjama en jersey fille]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h44/h5b/13516345540638.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[086]]></id>
+		<title><![CDATA[IN EXTENSO Basket]]></title>
+		<description><![CDATA[Basket canvas fille du 24 au 35]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/hc5/h29/14339721461790.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[087]]></id>
+		<title><![CDATA[IN EXTENSO Sneakers]]></title>
+		<description><![CDATA[Sneakers fille du 24 au 30]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h8e/hc3/14317829128222.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[088]]></id>
+		<title><![CDATA[IN EXTENSO Doudoune]]></title>
+		<description><![CDATA[Doudoune fille]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h00/h4f/14317355270174.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[089]]></id>
+		<title><![CDATA[IN EXTENSO Pantalon]]></title>
+		<description><![CDATA[Pantalon fille]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/he2/h94/13459490439198.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[090]]></id>
+		<title><![CDATA[NAF NAF Jean]]></title>
+		<description><![CDATA[Jean garçon]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h6d/h66/14043750563870.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[091]]></id>
+		<title><![CDATA[DEELUXE Pantalon jeans]]></title>
+		<description><![CDATA[DEELUXE Pantalon jeans Deeluxe Axel brut jeans jr Bleu 57530]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h93/h16/13986655535134.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[092]]></id>
+		<title><![CDATA[TEDDY SMITH Pantalon jeans slim]]></title>
+		<description><![CDATA[Teddy smith Reming leg worn die jeans Bleu 24401]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h1e/hab/14042214629406.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[093]]></id>
+		<title><![CDATA[RITCHIE jean]]></title>
+		<description><![CDATA[santagiulia boy]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/hec/h80/13392127819806.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[094]]></id>
+		<title><![CDATA[QUIKSILVER Pantalon]]></title>
+		<description><![CDATA[Pantalon jeans Quiksilver Revolver blk jeans jr Noir 23464]]></description>
+		<vendor><![CDATA[MISS & JO]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h97/hac/13975175004190.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[095]]></id>
+		<title><![CDATA[VTECH Lumi]]></title>
+		<description><![CDATA[toupie des animaux - Dès 9 mois]]></description>
+		<vendor><![CDATA[JOUJOU Boutique]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h30/hb5/13596837806110.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[096]]></id>
+		<title><![CDATA[ONE TWO FUN]]></title>
+		<description><![CDATA[Piano Ourson Rose]]></description>
+		<vendor><![CDATA[JOUJOU Boutique]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/he8/h2f/13842772557854.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[097]]></id>
+		<title><![CDATA[BABY Mon chat]]></title>
+		<description><![CDATA[Mon chat musical]]></description>
+		<vendor><![CDATA[JOUJOU Boutique]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/hfd/h86/12412704620574.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[098]]></id>
+		<title><![CDATA[FISHER PRICE Tapis de Danse]]></title>
+		<description><![CDATA[Tapis de Danse Bebo - Dès 9 mois]]></description>
+		<vendor><![CDATA[JOUJOU Boutique]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h2a/h87/13275803648030.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[099]]></id>
+		<title><![CDATA[SKIP HOP Xylophone]]></title>
+		<description><![CDATA[Xylophone Renard Explore & More]]></description>
+		<vendor><![CDATA[JOUJOU Boutique]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h58/h18/14249374220318.jpg]]></imagesrc>
+	</node>
+	<node>
+		<id><![CDATA[100]]></id>
+		<title><![CDATA[ROBOBLOQ Robot]]></title>
+		<description><![CDATA[Robot programmable QOOPERS]]></description>
+		<vendor><![CDATA[JOUJOU Boutique]]></vendor>
+		<type><![CDATA[à l'unite]]></type>
+		<tags><![CDATA[]]></tags>
+		<published><![CDATA[yes]]></published>
+		<option1name><![CDATA[]]></option1name>
+		<option1value><![CDATA[]]></option1value>
+		<imagesrc><![CDATA[https://media1.auchan.fr/images/h4c/hf4/14288027123742.jpg]]></imagesrc>
+	</node>
+</data>

@@ -1,0 +1,388 @@
+#: product-countdown-for-woocommerce.php:112
+msgid "Settings"
+msgstr ""
+
+#: product-countdown-for-woocommerce.php:115
+msgid "Unlock All"
+msgstr ""
+
+#: includes/class-alg-wc-product-countdown-core.php:212
+msgid "Countdown"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:36
+#: includes/settings/class-alg-wc-settings-product-countdown.php:24
+msgid "Product Time Countdown"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:63
+msgid "No"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:65
+msgid "Yes"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:67
+msgid "Enabled"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:71
+msgid "Date"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:75
+msgid "Time"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:78
+msgid "Do nothing"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:79
+msgid "Disable product"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:88
+msgid ""
+"Pro version also includes \"Cancel sale\" and \"Make sold out\" actions."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:89
+msgid "Action"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-metaboxes.php:93
+msgid "Current date and time"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:24
+msgid "General"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:39
+msgid "Product Time Countdown Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:44
+msgid "Product Time Countdown for WooCommerce"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:45
+msgid "Enable plugin"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:55
+msgid "General Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:60
+msgid "Template"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:61
+msgid "You can use HTML and/or shortcodes here."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:62
+#, php-format
+msgid "%s is replaced by actual time counter."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:70
+msgid "Time format"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:71
+msgid "Ignored if \"Human readable format\" option below is enabled."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:72
+#, php-format
+msgid "Replaced values: %s."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:80
+msgid "Upper limit"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:86
+msgid "Seconds"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:87
+msgid "Minutes"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:88
+msgid "Hours"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:89
+msgid "Days"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:90
+msgid "Weeks"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:94
+msgid "Human readable format"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:95
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:222
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:230
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:242
+msgid "Enable"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:96
+#, php-format
+msgid "Will use %s function to display time."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:103
+msgid "Style"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:110
+msgid "Update rate"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:111
+msgid "milliseconds"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:118
+msgid "Reload page"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:119
+msgid "If enabled will reload page on time finished."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:125
+msgid "Reload"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:126
+msgid "Reload on single product pages only"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:127
+msgid "Do not reload"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:131
+msgid "Message on time finished"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:132
+msgid ""
+"Message will be visible on time finished on frontend instead of time counter."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:133
+msgid "Can be empty."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:144
+msgid "Position Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:146
+#, php-format
+msgid "You will need %s plugin to change this section's settings."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:148
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:234
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:246
+msgid "Product Time Countdown for WooCommerce Pro"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:149
+#, php-format
+msgid "In Pro version you can also use %s shortcode to display the counter."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:155
+msgid "Position on single product page"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:161
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:194
+msgid "Do not add"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:162
+msgid "Before single product"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:163
+msgid "Before single product summary"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:164
+msgid "Inside single product summary"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:165
+msgid "After single product summary"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:166
+msgid "After single product"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:167
+msgid "Before add to cart form"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:168
+msgid "Before add to cart button"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:169
+msgid "After add to cart button"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:170
+msgid "After add to cart form"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:175
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:204
+msgid "Position priority"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:176
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:205
+msgid "Change this if you want to move the timer inside the Position."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:177
+msgid "Existing priorities:"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:178
+msgid "<em>Before single product:</em><br>notices - 10."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:179
+msgid ""
+"<em>Before single product summary:</em><br>sale flash - 10,<br>product "
+"images - 20."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:180
+msgid ""
+"<em>Inside single product summary:</em><br>title - 5,<br>rating - 10,"
+"<br>price - 10,<br>excerpt - 20,<br>add to cart - 30,<br>meta - 40,"
+"<br>sharing - 50."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:181
+msgid ""
+"<em>After single product summary:</em><br>product data tabs - 10,<br>upsell "
+"- 15,<br>related products - 20."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:188
+msgid "Position on archive (shop) pages"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:195
+msgid "Before product"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:196
+msgid "Before product title"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:197
+msgid "Inside product title"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:198
+msgid "After product title"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:199
+msgid "After product"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:216
+msgid "\"Disable product\" Action Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:221
+msgid "Make non-purchasable"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:223
+msgid ""
+"This will make products non-purchasable (i.e. product can't be added to the "
+"cart). However products will still be visible."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:229
+msgid "Make invisible"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:231
+msgid ""
+"This will hide products in shop and search results. However products will "
+"still be accessible via direct link."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:232
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:244
+#, php-format
+msgid "You will need %s plugin to enable this option."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:241
+msgid "Make completely invisible"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:243
+msgid "This will hide products completely (including direct link)."
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:257
+msgid "Admin Products List Options"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:262
+msgid "Add column"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:263
+msgid "Add"
+msgstr ""
+
+#: includes/settings/class-alg-wc-product-countdown-settings-general.php:264
+msgid "This will add \"Countdown\" column to admin products list."
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-product-countdown.php:49
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-product-countdown.php:54
+msgid "Reset section settings"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-product-countdown.php:55
+msgid "Check this box and save changes to reset section settings."
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-product-countdown.php:56
+msgid "Reset"
+msgstr ""
+
+#: includes/settings/class-alg-wc-settings-product-countdown.php:96
+msgid "Your settings have been reset."
+msgstr ""

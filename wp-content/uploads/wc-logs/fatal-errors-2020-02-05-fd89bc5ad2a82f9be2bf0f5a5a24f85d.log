@@ -1,0 +1,11 @@
+2020-02-05T09:38:14+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_total() on null in /home/kalouwah/petiprix.com/wp-content/themes/topdeal/woocommerce/minicart-ajax.php:11
+Stack trace:
+#0 /home/kalouwah/petiprix.com/wp-includes/template.php(724): require()
+#1 /home/kalouwah/petiprix.com/wp-includes/template.php(671): load_template('/home/kalouwah/...', false)
+#2 /home/kalouwah/petiprix.com/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#3 /home/kalouwah/petiprix.com/wp-content/themes/topdeal/widgets/sw_top/minicart.php(8): get_template_part('woocommerce/min...')
+#4 /home/kalouwah/petiprix.com/wp-content/themes/topdeal/lib/classes.php(496): require('/home/kalouwah/...')
+#5 /home/kalouwah/petiprix.com/wp-content/themes/topdeal/lib/widgets.php(239): Topdeal_Widget->widget(Array, Array)
+#6 /home/kalouwah/petiprix.com/wp-includes/class-wp-hook.php(288): Topdeal_Widgets->widget_display_callback(Array, Object(Topdeal_Top_Widget), Array)
+#7 /home/kalouwah/petiprix.com/wp-includes/plugin.php(206): WP_Hook dans /home/kalouwah/petiprix.com/wp-content/themes/topdeal/woocommerce/minicart-ajax.php à la ligne 11
+

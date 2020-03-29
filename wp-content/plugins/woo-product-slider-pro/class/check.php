@@ -1,0 +1,43 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly.
+}
+
+class WPSPRO_Check {
+	private static $active_plugins;
+	private static $_instance;
+
+	public static function getInstance() {
+		if ( ! self::$_instance ) {
+			self::$_instance = new WPSPRO_Check();
+		}
+
+		return self::$_instance;
+	}
+
+	public static function init() {
+		self::$active_plugins = ( array ) get_option( 'active_plugins', array() );
+		if ( is_multisite() ) {
+			self::$active_plugins = array_merge( self::$active_plugins, get_site_option( 'active_sitewide_plugins', array() ) );
+		}
+	}
+
+	/**
+	 * Check WooCommerce exist
+	 * @return Boolean
+	 */
+	public static function woocommerce_active_check() {
+		if ( ! self::$active_plugins) {
+			self::init();
+		}
+		return in_array( 'woocommerce/woocommerce.php', self::$active_plugins ) || array_key_exists( 'woocommerce/woocommerce.php', self::$active_plugins );
+	}
+
+	/**
+	 * Check if WooCommerce active
+	 * @return Boolean
+	 */
+	public static function is_woocommerce_active() {
+		return self::woocommerce_active_check();
+	}
+}
