@@ -13,7 +13,7 @@
 		'end_size' => 2,
 		'mid_size' => 2,
 		'prev_text' => esc_html__( 'Prev', 'topdeal' ),
-		'next_text' => esc_html__( 'Next', 'topdeal' )
+		'next_text' => esc_html__( 'Next', 'topdeal' ),
 		'type' => 'list',
 		
 	) );
